@@ -4,5 +4,6 @@ fn main() {
             print!("\t{} X {} = {}", l, i, i*l);
         }
         println!("  ");
+        println!(" ");
     }
 }
