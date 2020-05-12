@@ -3,6 +3,6 @@ fn main() {
         for l in 1..9 {
             print!("\t{} X {} = {}", l, i, i*l);
         }
-        println!("");
+        println!("  ");
     }
 }
